@@ -15,7 +15,7 @@ Mejorar la app actual del banco mediante la **definición de una nueva direcció
 
 ### Medium: [post en medium](https://medium.com)
 
-### Presentación: [storytelling](https://docs.google.com)
+### Presentación: [propuesta de solución](https://docs.google.com/presentation/d/1Iib2CMzeqmwn0M-fPkmXkTX2uJYww4Eof1MEHQYFou8/edit?usp=sharing)
 
 
 ### Hacker edition

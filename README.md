@@ -11,6 +11,8 @@ Mejorar la app actual del banco mediante la **definición de una nueva direcció
 
 ### Presentación: [propuesta de solución](https://docs.google.com/presentation/d/1Iib2CMzeqmwn0M-fPkmXkTX2uJYww4Eof1MEHQYFou8/edit?usp=sharing)
 
+### Landing Page: [Propuesta de re-diseño landingpage](http://misfinanzasapp.pagedemo.co/)
+
 ### Video de loom: [video de documentación](https://www.useloom.com)
 
 ### Medium: [post en medium](https://medium.com)

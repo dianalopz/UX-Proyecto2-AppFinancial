@@ -7,6 +7,8 @@
 Mejorar la app actual del banco mediante la **definición de una nueva dirección y evolución del producto**. llevando a cabo un diagnóstico y evaluación su desempeño, para proponer los cambios necesarios y optimizar el producto.
 
 
+### Prototipo cliqueable:[ver aquí]()
+
 ### Landing Page: [Propuesta de re-diseño landingpage](http://misfinanzasapp.pagedemo.co/)
 
 ### Investigación y estrategia: [ver proceso de documentación en *Google Sites*](https://sites.google.com/view/appfinancial/p%C3%A1gina-principal)

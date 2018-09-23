@@ -9,7 +9,7 @@ Mejorar la app actual del banco mediante la **definición de una nueva direcció
 
 ### Landing Page: [Propuesta de re-diseño landingpage](http://misfinanzasapp.pagedemo.co/)
 
-### Prototipo cliqueable: [ver aquí]()
+### Prototipo cliqueable: [Re-diseñ ver aquí](https://marvelapp.com/ee40gb9)
 
 ### Investigación y estrategia: [ver proceso de documentación en *Google Sites*](https://sites.google.com/view/appfinancial/p%C3%A1gina-principal)
 
